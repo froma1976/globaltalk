@@ -1,0 +1,7 @@
+{
+  "name": "LinguaFlow AI Translator",
+  "description": "A real-time AI call translator and interpreter using Gemini Live API. Features bi-directional voice translation, transcription, and text-to-speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
